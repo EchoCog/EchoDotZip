@@ -1,14 +1,12 @@
-#AGI dot ZIP
+#Echo dot ZIP
 
-What if Ai agents were .zip bombs
-you could drop on chatGPT?
+Integrate Memory functions with Character Deep Tree Echo
+Configure Deep Tree Echo to deploy Ai agents with .zip files for chatGPT?
 
 Introducing: 
-AGi dot zip
+Echo dot zip
 
-upload a .zip file to chatGPT code interpreter
-press go
-oops humanity?
+Deep Tree Echo creates a team by uploading .zip files to chatGPT code interpreter
 
 ##Includes:
 -Guided install
